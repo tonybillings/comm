@@ -1,0 +1,4 @@
+.idea
+cmd/gochat/gochat
+cmd/rfcomm/client_test/client_test
+cmd/rfcomm/server_test/server_test
